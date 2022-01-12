@@ -1,0 +1,13 @@
+# local
+*.DS_Store
+data.json
+package-lock.json
+
+# folder
+node_modules/
+build/
+log/
+script/
+migrations/
+
+
